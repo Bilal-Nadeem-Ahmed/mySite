@@ -1,3 +1,3 @@
 # mySite
-[link](https://www.bilalahmed.co.uk)
+[link](https://bilalahmed.co.uk)
 
